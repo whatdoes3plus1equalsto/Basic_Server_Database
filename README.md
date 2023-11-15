@@ -1,2 +1,1 @@
-# Election-Simulator
-Simulate election between hosts while the coordinator fails. Using ring algorithm
+# Basic_Server_Database
